@@ -1,2 +1,0 @@
-# match channels to markers in the panel
-markers = {'CD45': 'eFluor506*-A', 'CD31': 'BV605-A', 'CD4': 'BV711-A', 'CD11b':'FITC-A', 'CD3': 'PE-Fire640*-A', 'EpCAM': 'BV421-A', 'CD8': 'Alexa Fluor 700-A', 'CD19': 'Spark Blue 574', 'FAP': 'APC-A', 'CD8': 'Alexa Fluor 700-A', 'PanCK': 'PerCP-Cy5.5-A', 'aSMA': 'Alexa Fluor 750*-A', 'mCherry': 'mCherry*-A', 'Zombie UV': 'Zombie UV*-A', 'Autofluorescence': 'Autofluorescence-A'}
